@@ -14,6 +14,13 @@ Aula de criação, manipulação de arquivos e diretórios usando gitbash e linu
 - Script3: Lê um número e uma palavra, e após isso ele cria o número de diretórios com o nome digitado. E o nome é contantenado com um contador que vai até o número digitado.
 - Scripdt4: Cria um arquivo chamado data.txt com a data atual. E usando um laço de repetição que armazena data e hora dentro do arquivo criado posteriormente e depois exibe esse arquivo.
 
-####Autor
+####Status 
+<h4 align="center">
+
+Scripts Já finalizados ...
+
+</h4>
+
+#####Autor
 - Gabriel Antonio Cerentini Farias
 - 4º semestre Sistemas de Informação, AMF
